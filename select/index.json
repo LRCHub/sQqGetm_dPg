@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "THEORY",
+  "base_artist": "UVERworld",
+  "createdAt": "2026-03-24T11:28:32.044168Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Barz 4 Dayz (prod. Soul Theory",
+      "artist": "Mac Miller",
+      "has_synced": false,
+      "path": "select/01_Barz_4_Dayz_(prod._Soul_Theory_Mac_Miller.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cruisin' (prod. Soul Theory)",
+      "artist": "Mac Miller",
+      "has_synced": true,
+      "path": "select/02_Cruisin'_(prod._Soul_Theory)_Mac_Miller.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Game Theory",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/03_Game_Theory_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Scary World Theory",
+      "artist": "Lali Puna",
+      "has_synced": false,
+      "path": "select/04_Scary_World_Theory_Lali_Puna.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Moon Theory",
+      "artist": "Miami Horror",
+      "has_synced": true,
+      "path": "select/05_Moon_Theory_Miami_Horror.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Theory of Life",
+      "artist": "Molly Nilsson",
+      "has_synced": false,
+      "path": "select/06_Theory_of_Life_Molly_Nilsson.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Questioning Your Theory",
+      "artist": "Night Lovell",
+      "has_synced": true,
+      "path": "select/07_Questioning_Your_Theory_Night_Lovell.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Runaway (Ki:Theory Remix)",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/08_Runaway_(Ki_Theory_Remix)_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Chaos Theory",
+      "artist": "Badly Drawn Boy",
+      "has_synced": false,
+      "path": "select/09_Chaos_Theory_Badly_Drawn_Boy.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Evolution Theory",
+      "artist": "Modestep feat. D-Power, Jammin, Jammer & Frisco",
+      "has_synced": true,
+      "path": "select/10_Evolution_Theory_Modestep_feat._D-Power,_Jammin,_Jammer_&_Frisco.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Evolution Theory",
+      "artist": "Modestep, D-Power, Jammin, Jammer & Frisco",
+      "has_synced": true,
+      "path": "select/11_Evolution_Theory_Modestep,_D-Power,_Jammin,_Jammer_&_Frisco.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Theory of Ghosts",
+      "artist": "Piano Magic",
+      "has_synced": true,
+      "path": "select/12_Theory_of_Ghosts_Piano_Magic.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Theory of Ghosts (Remastered)",
+      "artist": "Piano Magic",
+      "has_synced": true,
+      "path": "select/13_Theory_of_Ghosts_(Remastered)_Piano_Magic.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Low End Theory",
+      "artist": "SLik d",
+      "has_synced": false,
+      "path": "select/14_Low_End_Theory_SLik_d.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "THEORY",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_01_THEORY_UVERworld.txt"
+    }
+  ]
+}
